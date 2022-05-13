@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+  .navbar {
+    background-color: blueviolet;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .navbar {
+    background-color: #e22b43;
+  }
+}
+
+/* @media only screen and (min-width: 768px) {
+} */
+/*# sourceMappingURL=testing.css.map */
