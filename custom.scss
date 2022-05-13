@@ -31,6 +31,9 @@ body {
 
   .menu {
     flex: 1;
+    .togle {
+      display: none;
+    }
 
     ul {
       display: flex;

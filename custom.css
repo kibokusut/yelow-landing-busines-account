@@ -43,6 +43,10 @@ body {
           flex: 1;
 }
 
+.navbar .menu .togle {
+  display: none;
+}
+
 .navbar .menu ul {
   display: -webkit-box;
   display: -ms-flexbox;
